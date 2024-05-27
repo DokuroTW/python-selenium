@@ -17,6 +17,7 @@ driver.find_element(By.CSS_SELECTOR,"[data_abc=test]")
 
 ```CMD
 element = driver.find_element("_____")
+
 element.send_key(keys.ENTER)
 ```
 
