@@ -19,3 +19,7 @@ driver.find_element(By.CSS_SELECTOR,"[data_abc=test]")
 element = driver.find_element("_____")
 element.send_key(keys.ENTER)
 ```
+
+### 執行
+
+`SHELL:> python p_selenium`
