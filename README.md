@@ -22,4 +22,4 @@ element.send_key(keys.ENTER)
 
 ### 執行
 
-`SHELL:> python p_selenium`
+`SHELL:> python p_selenium.py`
